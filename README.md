@@ -1,1 +1,0 @@
-Creando un readme para registrar y detallar todo lo que contiene nuestra aplicacion web
